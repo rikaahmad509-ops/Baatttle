@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Arena: Auto Battle Survivor",
+  "description": "Fast-paced fantasy arena auto-battler with 10 unique heroes, skill traits, relic builds, wave bosses, and Practice Lab mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
